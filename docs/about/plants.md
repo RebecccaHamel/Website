@@ -4,3 +4,4 @@ In my opinion, plants are the best type of medicine - especially in Montreal! Su
 
 Here's a few plants I saved from the side of the road: The two plants on the left are heartleaf philohendrons (philohendron hederaceum) and a Adanson's monstera (monstera adansonii)
 
+![PLants](./media/plants.jpg "My Plants")
