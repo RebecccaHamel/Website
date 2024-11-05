@@ -5,8 +5,8 @@ My name is Rebecca and I'm a first year master's student in Physics and Astronom
 # Other Interests
 
 - [Cooking](./cooking.md)
-- [Cycling](./cycling.md)
-- [Olympic Fishing](./fishing.md)
+- [Reading](./reading.md)
+- [Plants](./plants.md)
 
 
 # CV
