@@ -12,7 +12,7 @@ copyright: > # should remain a link to the original theme
 
 
 theme:
-    name: bootswatch
+    name: material
     palette:
       # Palette toggle for light mode
       - scheme: default
