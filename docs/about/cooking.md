@@ -2,7 +2,7 @@
 
 Made some curried wonton soup! (instructions below)
 
-[![Wonton Soup](./media/soup.jpg "Wonton Soup")]{align="left": style="height:150;width:150px"}
+[![Wonton Soup](./media/soup.jpg "Wonton Soup")]
 
 Ingredients:
 - 1 onion (diced)
