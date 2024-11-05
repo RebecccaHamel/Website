@@ -2,9 +2,7 @@
 
 Made some curried wonton soup! (instructions below)
 
-[![Wonton Soup](./media/soup.jpg "Wonton Soup")]
-
-[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
+[![Wonton Soup](./media/soup.jpg "Wonton Soup")]{align="left": style="height:150;width:150px"}
 
 Ingredients:
 - 1 onion (diced)
