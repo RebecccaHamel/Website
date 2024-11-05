@@ -4,6 +4,8 @@ Made some curried wonton soup! (instructions below)
 
 [![Wonton Soup](./media/soup.jpg "Wonton Soup")]
 
+[![Crab Nebula](./media/Crab_Nebula.jpg "Crab Nebula")](https://en.wikipedia.org/wiki/Crab_Nebula#)
+
 Ingredients:
 - 1 onion (diced)
 - 1 sweet potato (cut into centimetre-sized cubes)
