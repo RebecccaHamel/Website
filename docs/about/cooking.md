@@ -2,6 +2,8 @@
 
 Made some curried wonton soup! (instructions below)
 
+[![Wonton Soup](./media/soup.jpg "Wonton Soup")]
+
 Ingredients:
 - 1 onion (diced)
 - 1 sweet potato (cut into centimetre-sized cubes)
