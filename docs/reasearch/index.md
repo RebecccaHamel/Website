@@ -7,11 +7,15 @@ Kilonovae are thought to be the main mechanism in the synthesis of the heaviest 
 # Prior Research
 
 **Analysis of the Warm Absorber in NGC 6814**
+
 Saint Mary’s University - 2023
+
 Modeling the highly-ionised gas in the AGN NGC 6814 by analysing its high resolution spectra, and determining its charac-
 teristics such as composition, temperature, density, location, and kinematics.
 
 **Predicting the Performance of CASTOR for Kinematics in the Outskirts of Globular Clusters**
+
 Saint Mary’s University - 2022
+
 Using Cluster Monte Carlo simulations and the CASTOR exposure time calculator to determine CASTOR’s capacity to
 constrain the proper motions of globular cluster members and detect the presence of dark matter halos.
