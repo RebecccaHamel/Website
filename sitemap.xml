@@ -2,26 +2,30 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://rebecccahamel.github.io/Website/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
+    </url>
+    <url>
+         <loc>https://rebecccahamel.github.io/Website/CV/</loc>
+         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
          <loc>https://rebecccahamel.github.io/Website/about/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
          <loc>https://rebecccahamel.github.io/Website/about/cooking/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
          <loc>https://rebecccahamel.github.io/Website/about/plants/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
          <loc>https://rebecccahamel.github.io/Website/about/reading/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
     </url>
     <url>
          <loc>https://rebecccahamel.github.io/Website/reasearch/</loc>
-         <lastmod>2024-11-05</lastmod>
+         <lastmod>2024-11-06</lastmod>
     </url>
 </urlset>
