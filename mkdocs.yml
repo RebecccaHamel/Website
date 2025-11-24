@@ -1,11 +1,11 @@
 # Change to your own name
-site_name: My Research Page
+site_name: My Research Blog - Rebecca Hamel
 # Change to your own site
 site_url: https://rebecccahamel.github.io/Website/ # must have the trailing slash
 site_author: Rebecca Hamel (rebecca.hamel@mail.mcgill.ca)
 site_description: Research site for Rebecca Hamel 
 copyright: > # should remain a link to the original theme
-  &copy; 2023 Your Name <br>
+  &copy; 2024 Rebecca Hamel <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
   <a href="https://squidfunk.github.io/mkdocs-material/">Material for MkDocs</a>
 
@@ -17,9 +17,9 @@ theme:
       # Palette toggle for light mode
       - scheme: default
         # Color of the top bar
-        primary: deep purple
+        primary: teal
         # Link highlight color
-        accent : orange
+        accent : indigo
         
         toggle:
           icon: material/brightness-7 
@@ -58,7 +58,7 @@ nav:
   - Home: index.md
   - About Me: about/index.md
   - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Curriculum Vitae: CV/index.md
 
 # Extensions that we want to use
 markdown_extensions:
